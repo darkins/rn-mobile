@@ -1,0 +1,17 @@
+export default {
+    text_primary: '#000044',
+    text_secondary: '#2335BA',
+    text_terciary: '#767676',
+    cta_primary: '#3147E4',
+    cta_secondary: '#9BA9E8',
+    warning: '#D4455F',
+    success: '#37BA8B',
+    bg_one: '#F4F4F4',
+    bg_two: '#E8E8E8',
+    bg_three: '#F3F5FF',
+    bg_four: '#E7EBFF',
+    border: '#CBD2D9',
+    black: '#000000',
+    white: '#ffffff',
+    icon: '#333333',
+};

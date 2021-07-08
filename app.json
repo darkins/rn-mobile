@@ -1,0 +1,43 @@
+{
+  "name": "Transparency Engine Mobile",
+  "displayName": "Transparency Engine Mobile",
+  "expo": {
+    "name": "Transparency Engine Mobile",
+    "description": "Transparency Engine Mobile",
+    "slug": "transparency-engine-mobile",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "buildNumber": "2.0.0"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "versionCode": 2
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  }
+}
